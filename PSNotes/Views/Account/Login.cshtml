@@ -1,0 +1,28 @@
+﻿@using System.Collections.Generic
+@using Microsoft.AspNetCore.Http
+@using Microsoft.AspNetCore.Http.Authentication
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<div class="page-header">
+    <h1>@ViewData["Title"].</h1>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <section>
+            <form asp-controller="Account" asp-action="ExternalLogin" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" class="form-horizontal">
+                <div>
+                    <p>
+                        <button name="provider" title="Log in using your GitHub account" class="btn btn-primary" type="submit" value="GitHub">Log in with GitHub</button>
+                    </p>
+                </div>
+            </form>
+        </section>
+    </div>
+</div>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}

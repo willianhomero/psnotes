@@ -1,0 +1,9 @@
+C:\PluralSight\203\20 - Microsoft Azure Developer - Monitoring Performance\samples\02\demos\PSNotes.Models\bin\Release\netcoreapp2.1\PSNotes.Models.deps.json
+C:\PluralSight\203\20 - Microsoft Azure Developer - Monitoring Performance\samples\02\demos\PSNotes.Models\bin\Release\netcoreapp2.1\PSNotes.Models.dll
+C:\PluralSight\203\20 - Microsoft Azure Developer - Monitoring Performance\samples\02\demos\PSNotes.Models\bin\Release\netcoreapp2.1\PSNotes.Models.pdb
+C:\PluralSight\203\20 - Microsoft Azure Developer - Monitoring Performance\samples\02\demos\PSNotes.Models\obj\Release\netcoreapp2.1\PSNotes.Models.csprojAssemblyReference.cache
+C:\PluralSight\203\20 - Microsoft Azure Developer - Monitoring Performance\samples\02\demos\PSNotes.Models\obj\Release\netcoreapp2.1\PSNotes.Models.AssemblyInfoInputs.cache
+C:\PluralSight\203\20 - Microsoft Azure Developer - Monitoring Performance\samples\02\demos\PSNotes.Models\obj\Release\netcoreapp2.1\PSNotes.Models.AssemblyInfo.cs
+C:\PluralSight\203\20 - Microsoft Azure Developer - Monitoring Performance\samples\02\demos\PSNotes.Models\obj\Release\netcoreapp2.1\PSNotes.Models.csproj.CoreCompileInputs.cache
+C:\PluralSight\203\20 - Microsoft Azure Developer - Monitoring Performance\samples\02\demos\PSNotes.Models\obj\Release\netcoreapp2.1\PSNotes.Models.dll
+C:\PluralSight\203\20 - Microsoft Azure Developer - Monitoring Performance\samples\02\demos\PSNotes.Models\obj\Release\netcoreapp2.1\PSNotes.Models.pdb

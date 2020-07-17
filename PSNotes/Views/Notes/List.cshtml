@@ -1,0 +1,20 @@
+﻿@model List<PSNotes.Models.NoteSummary>
+
+<div class="notes">
+    <div class="page-header">
+        <h1>@ViewData["Title"]</h1>
+    </div>
+    <div class="list-group">
+        <a class="list-group-item" href="/Notes/New">
+            <h4><b>+</b> Create a new note</h4>
+        </a>
+        @foreach (PSNotes.Models.NoteSummary note in Model)
+        {
+            <a class="list-group-item" href="/Notes/Edit/@note.NoteId">
+                <h4 class="list-group-item-heading">@note.Title</h4>
+                <p class="list-group-item-text">Created: ‎@note.CreatedAt.ToLocalTime().ToString()</p>
+            </a>
+        }
+        
+    </div>
+</div>

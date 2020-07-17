@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="psnotesmilgrau" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\PluralSight\\203\\20\ -\ Microsoft\ Azure\ Developer\ -\ Monitoring\ Performance\\samples\\02\\demos\\PSNotes\.Api\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
